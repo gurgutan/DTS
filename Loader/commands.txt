@@ -1,0 +1,2 @@
+﻿read "D:\Temp\Export\4550.7.П.02"
+check

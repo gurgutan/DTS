@@ -1,0 +1,1758 @@
+
+{
+    "TimeStart":"\/Date(1509543265545+0400)\/",
+    "Type":0,
+    "Path":"D:\\Temp\\Export\\4550.7.П.02",
+    "Document":
+    {
+        "Id":"",
+        "GUID":"",
+        "Name":"4550.7.П.02",
+        "ParentGUID":null,
+        "Attributes":[],
+        "Files":[],
+        "Childs":[
+        {
+            "Id":"",
+            "GUID":"",
+            "Name":"4550.7.П.01.ВТК.000",
+            "ParentGUID":"",
+            "Attributes":[],
+            "Files":[],
+            "Childs":[
+            {
+                "Id":"",
+                "GUID":"",
+                "Name":"4550.7.П.01.ВТК.000.000.Л.000",
+                "ParentGUID":"",
+                "Attributes":[],
+                "Files":[],
+                "Childs":[
+                {
+                    "Id":"",
+                    "GUID":"",
+                    "Name":"Source",
+                    "ParentGUID":"",
+                    "Attributes":[],
+                    "Files":[],
+                    "Childs":[
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\4550.7.П.01.ВТК.000.000.Л.ВР1\\ВР1 200x89.doc",
+                            "GUID":"",
+                            "Id":""
+                        },
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\4550.7.П.01.ВТК.000.000.Л.ВР1\\ВР1 Титул.doc",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\4550.7.П.01.ВТК.000.000.Л.ВР2\\ВР2 Обратный клапан Ду300.doc",
+                            "GUID":"",
+                            "Id":""
+                        },
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\4550.7.П.01.ВТК.000.000.Л.ВР2\\ВР2 Титул.doc",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"Лист №1",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №1\\4550РД.00.Р.01.ВТК.000.000.Л.02.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"Лист №2",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №2\\4550РД.00.Р.01.ВТК.000.000.Л.03.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"Лист №3",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №3\\4550РД.00.Р.01.ВТК.000.000.Л.04.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"Лист №4",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №4\\4550РД.00.Р.01.ВТК.000.000.Л.05.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"Лист №5",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №5\\4550РД.00.Р.01.ВТК.000.000.Л.06.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"Лист №6",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №6\\4550РД.00.Р.01.ВТК.000.000.Л.07.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"",
+                        "GUID":"",
+                        "Name":"Лист №7",
+                        "ParentGUID":"",
+                        "Attributes":[],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №7\\4550РД.00.Р.01.ВТК.000.000.Л.08.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    },
+    "Pattern":null,
+    "Result":
+    {
+        "Code":0,
+        "Description":"Документ загружен"
+    }
+}
+{
+    "TimeStart":"\/Date(1509543265612+0400)\/",
+    "Type":3,
+    "Path":"",
+    "Document":
+    {
+        "Id":"DOC_FOR_COMPLEX",
+        "GUID":"",
+        "Name":"4550.7.П.02",
+        "ParentGUID":null,
+        "Attributes":[
+        {
+            "Id":"UNUM",
+            "DataType":0,
+            "Data":"4550.7.П.02"
+        },
+        {
+            "Id":"DOG_NUM",
+            "DataType":0,
+            "Data":"4550"
+        },
+        {
+            "Id":"DOP_SOGL_NUM",
+            "DataType":0,
+            "Data":"7"
+        },
+        {
+            "Id":"STAGE_TYPE",
+            "DataType":0,
+            "Data":"П"
+        },
+        {
+            "Id":"COM_ATTR_COMPLEXTYPE",
+            "DataType":0,
+            "Data":"02"
+        }
+        ],
+        "Files":[],
+        "Childs":[
+        {
+            "Id":"DOC_FOR_COMPLEX_PART",
+            "GUID":"",
+            "Name":"4550.7.П.01.ВТК.000",
+            "ParentGUID":"",
+            "Attributes":[
+            {
+                "Id":"UNUM",
+                "DataType":0,
+                "Data":"4550.7.П.01.ВТК.000"
+            },
+            {
+                "Id":"DOG_NUM",
+                "DataType":0,
+                "Data":"4550"
+            },
+            {
+                "Id":"DOP_SOGL_NUM",
+                "DataType":0,
+                "Data":"7"
+            },
+            {
+                "Id":"STAGE_TYPE",
+                "DataType":0,
+                "Data":"П"
+            },
+            {
+                "Id":"COM_ATTR_COMPLEXTYPE",
+                "DataType":0,
+                "Data":"01"
+            },
+            {
+                "Id":"COM_ATTR_CPARTTYPE_CODE",
+                "DataType":0,
+                "Data":"ВТК"
+            },
+            {
+                "Id":"BLDCPART_ATTR_SPCODE",
+                "DataType":0,
+                "Data":"000"
+            }
+            ],
+            "Files":[],
+            "Childs":[
+            {
+                "Id":"COMPLECT",
+                "GUID":"",
+                "Name":"4550.7.П.01.ВТК.000.000.Л.000",
+                "ParentGUID":"",
+                "Attributes":[
+                {
+                    "Id":"C_UNUM",
+                    "DataType":0,
+                    "Data":"4550.7.П.01.ВТК.000.000.Л.000"
+                },
+                {
+                    "Id":"DOG_NUM",
+                    "DataType":0,
+                    "Data":"4550"
+                },
+                {
+                    "Id":"DOP_SOGL_NUM",
+                    "DataType":0,
+                    "Data":"7"
+                },
+                {
+                    "Id":"STAGE_TYPE",
+                    "DataType":0,
+                    "Data":"П"
+                },
+                {
+                    "Id":"COM_ATTR_COMPLEXTYPE",
+                    "DataType":0,
+                    "Data":"01"
+                },
+                {
+                    "Id":"COM_ATTR_CPARTTYPE_CODE",
+                    "DataType":0,
+                    "Data":"ВТК"
+                },
+                {
+                    "Id":"BLDCPART_ATTR_SPCODE",
+                    "DataType":0,
+                    "Data":"000"
+                },
+                {
+                    "Id":"BLDCONSTRUCTION_ATTR_GPCODE",
+                    "DataType":0,
+                    "Data":"000"
+                },
+                {
+                    "Id":"MARK",
+                    "DataType":0,
+                    "Data":"Л"
+                }
+                ],
+                "Files":[],
+                "Childs":[
+                {
+                    "Id":"SOURCE",
+                    "GUID":"",
+                    "Name":"Source",
+                    "ParentGUID":"",
+                    "Attributes":[],
+                    "Files":[],
+                    "Childs":[
+                    {
+                        "Id":"PSD",
+                        "GUID":"",
+                        "Name":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"DOC_UNUM",
+                            "DataType":0,
+                            "Data":"4550.7.П.01.ВТК.000.000.Л.ВР1"
+                        },
+                        {
+                            "Id":"DOG_NUM",
+                            "DataType":0,
+                            "Data":"4550"
+                        },
+                        {
+                            "Id":"DOP_SOGL_NUM",
+                            "DataType":0,
+                            "Data":"7"
+                        },
+                        {
+                            "Id":"STAGE_TYPE",
+                            "DataType":0,
+                            "Data":"П"
+                        },
+                        {
+                            "Id":"COM_ATTR_COMPLEXTYPE",
+                            "DataType":0,
+                            "Data":"01"
+                        },
+                        {
+                            "Id":"COM_ATTR_CPARTTYPE_CODE",
+                            "DataType":0,
+                            "Data":"ВТК"
+                        },
+                        {
+                            "Id":"BLDCPART_ATTR_SPCODE",
+                            "DataType":0,
+                            "Data":"000"
+                        },
+                        {
+                            "Id":"BLDCONSTRUCTION_ATTR_GPCODE",
+                            "DataType":0,
+                            "Data":"000"
+                        },
+                        {
+                            "Id":"MARK",
+                            "DataType":0,
+                            "Data":"Л"
+                        },
+                        {
+                            "Id":"PSD_TYPE",
+                            "DataType":0,
+                            "Data":"ВР1"
+                        },
+                        {
+                            "Id":"ADD_CODE",
+                            "DataType":0,
+                            "Data":""
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\4550.7.П.01.ВТК.000.000.Л.ВР1\\ВР1 200x89.doc",
+                            "GUID":"",
+                            "Id":""
+                        },
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\4550.7.П.01.ВТК.000.000.Л.ВР1\\ВР1 Титул.doc",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"PSD",
+                        "GUID":"",
+                        "Name":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"DOC_UNUM",
+                            "DataType":0,
+                            "Data":"4550.7.П.01.ВТК.000.000.Л.ВР2"
+                        },
+                        {
+                            "Id":"DOG_NUM",
+                            "DataType":0,
+                            "Data":"4550"
+                        },
+                        {
+                            "Id":"DOP_SOGL_NUM",
+                            "DataType":0,
+                            "Data":"7"
+                        },
+                        {
+                            "Id":"STAGE_TYPE",
+                            "DataType":0,
+                            "Data":"П"
+                        },
+                        {
+                            "Id":"COM_ATTR_COMPLEXTYPE",
+                            "DataType":0,
+                            "Data":"01"
+                        },
+                        {
+                            "Id":"COM_ATTR_CPARTTYPE_CODE",
+                            "DataType":0,
+                            "Data":"ВТК"
+                        },
+                        {
+                            "Id":"BLDCPART_ATTR_SPCODE",
+                            "DataType":0,
+                            "Data":"000"
+                        },
+                        {
+                            "Id":"BLDCONSTRUCTION_ATTR_GPCODE",
+                            "DataType":0,
+                            "Data":"000"
+                        },
+                        {
+                            "Id":"MARK",
+                            "DataType":0,
+                            "Data":"Л"
+                        },
+                        {
+                            "Id":"PSD_TYPE",
+                            "DataType":0,
+                            "Data":"ВР2"
+                        },
+                        {
+                            "Id":"ADD_CODE",
+                            "DataType":0,
+                            "Data":""
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\4550.7.П.01.ВТК.000.000.Л.ВР2\\ВР2 Обратный клапан Ду300.doc",
+                            "GUID":"",
+                            "Id":""
+                        },
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\4550.7.П.01.ВТК.000.000.Л.ВР2\\ВР2 Титул.doc",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"DRAWING",
+                        "GUID":"",
+                        "Name":"Лист №1",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"LIST_NUM",
+                            "DataType":0,
+                            "Data":"1"
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №1\\4550РД.00.Р.01.ВТК.000.000.Л.02.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"DRAWING",
+                        "GUID":"",
+                        "Name":"Лист №2",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"LIST_NUM",
+                            "DataType":0,
+                            "Data":"2"
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №2\\4550РД.00.Р.01.ВТК.000.000.Л.03.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"DRAWING",
+                        "GUID":"",
+                        "Name":"Лист №3",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"LIST_NUM",
+                            "DataType":0,
+                            "Data":"3"
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №3\\4550РД.00.Р.01.ВТК.000.000.Л.04.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"DRAWING",
+                        "GUID":"",
+                        "Name":"Лист №4",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"LIST_NUM",
+                            "DataType":0,
+                            "Data":"4"
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №4\\4550РД.00.Р.01.ВТК.000.000.Л.05.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"DRAWING",
+                        "GUID":"",
+                        "Name":"Лист №5",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"LIST_NUM",
+                            "DataType":0,
+                            "Data":"5"
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №5\\4550РД.00.Р.01.ВТК.000.000.Л.06.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"DRAWING",
+                        "GUID":"",
+                        "Name":"Лист №6",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"LIST_NUM",
+                            "DataType":0,
+                            "Data":"6"
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №6\\4550РД.00.Р.01.ВТК.000.000.Л.07.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    },
+                    {
+                        "Id":"DRAWING",
+                        "GUID":"",
+                        "Name":"Лист №7",
+                        "ParentGUID":"",
+                        "Attributes":[
+                        {
+                            "Id":"LIST_NUM",
+                            "DataType":0,
+                            "Data":"7"
+                        }
+                        ],
+                        "Files":[
+                        {
+                            "FullName":"D:\\Temp\\Export\\4550.7.П.02\\4550.7.П.01.ВТК.000\\4550.7.П.01.ВТК.000.000.Л.000\\Source\\Лист №7\\4550РД.00.Р.01.ВТК.000.000.Л.08.00.dwg",
+                            "GUID":"",
+                            "Id":""
+                        }
+                        ],
+                        "Childs":[]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    },
+    "Pattern":
+    {
+        "Result":
+        {
+            "Success":true,
+            "PatternName":"Проект",
+            "DocumentName":"4550.7.П.02",
+            "Text":"Проверка 4550.7.П.02 по шаблону (Проект - DOC_FOR_COMPLEX) успешна",
+            "Childs":[
+            {
+                "Success":true,
+                "PatternName":"Полный комплект на часть комплекса",
+                "DocumentName":"4550.7.П.01.ВТК.000",
+                "Text":"Проверка 4550.7.П.01.ВТК.000 по шаблону (Полный комплект на часть комплекса - DOC_FOR_COMPLEX_PART) успешна",
+                "Childs":[
+                {
+                    "Success":true,
+                    "PatternName":"Основной комплект",
+                    "DocumentName":"4550.7.П.01.ВТК.000.000.Л.000",
+                    "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.000 по шаблону (Основной комплект - COMPLECT) успешна",
+                    "Childs":[
+                    {
+                        "Success":true,
+                        "PatternName":"Исходные документы",
+                        "DocumentName":"Source",
+                        "Text":"Проверка Source по шаблону (Исходные документы - SOURCE) успешна",
+                        "Childs":[
+                        {
+                            "Success":true,
+                            "PatternName":"Документ",
+                            "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                            "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР1 по шаблону (Документ - PSD) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Документ",
+                            "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                            "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР2 по шаблону (Документ - PSD) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №1",
+                            "Text":"Проверка Лист №1 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №2",
+                            "Text":"Проверка Лист №2 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №3",
+                            "Text":"Проверка Лист №3 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №4",
+                            "Text":"Проверка Лист №4 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №5",
+                            "Text":"Проверка Лист №5 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №6",
+                            "Text":"Проверка Лист №6 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №7",
+                            "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        },
+        "Id":"DOC_FOR_COMPLEX",
+        "GUID":"",
+        "Name":"Проект",
+        "AttributesPatternString":"^(?'UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+))$",
+        "AttributesCompareMode":1,
+        "AttributesPatterns":[
+        {
+            "Id":"UNUM"
+        }
+        ],
+        "FilesPatterns":[],
+        "ChildsPatterns":[
+        {
+            "Result":
+            {
+                "Success":true,
+                "PatternName":"Полный комплект на часть комплекса",
+                "DocumentName":"4550.7.П.01.ВТК.000",
+                "Text":"Проверка 4550.7.П.01.ВТК.000 по шаблону (Полный комплект на часть комплекса - DOC_FOR_COMPLEX_PART) успешна",
+                "Childs":[
+                {
+                    "Success":true,
+                    "PatternName":"Основной комплект",
+                    "DocumentName":"4550.7.П.01.ВТК.000.000.Л.000",
+                    "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.000 по шаблону (Основной комплект - COMPLECT) успешна",
+                    "Childs":[
+                    {
+                        "Success":true,
+                        "PatternName":"Исходные документы",
+                        "DocumentName":"Source",
+                        "Text":"Проверка Source по шаблону (Исходные документы - SOURCE) успешна",
+                        "Childs":[
+                        {
+                            "Success":true,
+                            "PatternName":"Документ",
+                            "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                            "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР1 по шаблону (Документ - PSD) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Документ",
+                            "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                            "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР2 по шаблону (Документ - PSD) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №1",
+                            "Text":"Проверка Лист №1 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №2",
+                            "Text":"Проверка Лист №2 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №3",
+                            "Text":"Проверка Лист №3 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №4",
+                            "Text":"Проверка Лист №4 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №5",
+                            "Text":"Проверка Лист №5 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №6",
+                            "Text":"Проверка Лист №6 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №7",
+                            "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            },
+            "Id":"DOC_FOR_COMPLEX_PART",
+            "GUID":"",
+            "Name":"Полный комплект на часть комплекса",
+            "AttributesPatternString":"^(?'UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+)\\.(?'COM_ATTR_CPARTTYPE_CODE'[\\w\\d\\-]+)\\.(?'BLDCPART_ATTR_SPCODE'[\\w\\d]+))$",
+            "AttributesCompareMode":1,
+            "AttributesPatterns":[
+            {
+                "Id":"UNUM"
+            }
+            ],
+            "FilesPatterns":[],
+            "ChildsPatterns":[
+            {
+                "Result":
+                {
+                    "Success":false,
+                    "PatternName":"Полный комплект на сооружение",
+                    "DocumentName":"4550.7.П.01.ВТК.000.000.Л.000",
+                    "Text":"Документ 4550.7.П.01.ВТК.000.000.Л.000 не прошел проверку по шаблону (Полный комплект на сооружение-DOC_FOR_TITUL)\n\nАтрибут не найден: 'UNUM'",
+                    "Childs":[]
+                },
+                "Id":"DOC_FOR_TITUL",
+                "GUID":"",
+                "Name":"Полный комплект на сооружение",
+                "AttributesPatternString":"^(?'UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+)\\.(?'COM_ATTR_CPARTTYPE_CODE'[\\w\\d\\-]+)\\.(?'BLDCPART_ATTR_SPCODE'[\\w\\d]+)\\.(?'BLDCONSTRUCTION_ATTR_GPCODE'[\\w\\d]+))$",
+                "AttributesCompareMode":1,
+                "AttributesPatterns":[
+                {
+                    "Id":"UNUM"
+                }
+                ],
+                "FilesPatterns":[],
+                "ChildsPatterns":[
+                {
+                    "Result":
+                    {
+                        "Success":true,
+                        "PatternName":"Основной комплект",
+                        "DocumentName":"4550.7.П.01.ВТК.000.000.Л.000",
+                        "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.000 по шаблону (Основной комплект - COMPLECT) успешна",
+                        "Childs":[
+                        {
+                            "Success":true,
+                            "PatternName":"Исходные документы",
+                            "DocumentName":"Source",
+                            "Text":"Проверка Source по шаблону (Исходные документы - SOURCE) успешна",
+                            "Childs":[
+                            {
+                                "Success":true,
+                                "PatternName":"Документ",
+                                "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                                "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР1 по шаблону (Документ - PSD) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Документ",
+                                "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                                "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР2 по шаблону (Документ - PSD) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №1",
+                                "Text":"Проверка Лист №1 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №2",
+                                "Text":"Проверка Лист №2 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №3",
+                                "Text":"Проверка Лист №3 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №4",
+                                "Text":"Проверка Лист №4 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №5",
+                                "Text":"Проверка Лист №5 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №6",
+                                "Text":"Проверка Лист №6 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №7",
+                                "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            }
+                            ]
+                        }
+                        ]
+                    },
+                    "Id":"COMPLECT",
+                    "GUID":"",
+                    "Name":"Основной комплект",
+                    "AttributesPatternString":"^(?'C_UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+)\\.(?'COM_ATTR_CPARTTYPE_CODE'[\\w\\d\\-]+)\\.(?'BLDCPART_ATTR_SPCODE'[\\w\\d]+)\\.(?'BLDCONSTRUCTION_ATTR_GPCODE'[\\w\\d]+)\\.(?'MARK'\\w+)\\.000)$",
+                    "AttributesCompareMode":1,
+                    "AttributesPatterns":[
+                    {
+                        "Id":"C_UNUM"
+                    },
+                    {
+                        "Id":"MARK"
+                    }
+                    ],
+                    "FilesPatterns":[
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    }
+                    ],
+                    "ChildsPatterns":[
+                    {
+                        "Result":
+                        {
+                            "Success":true,
+                            "PatternName":"Исходные документы",
+                            "DocumentName":"Source",
+                            "Text":"Проверка Source по шаблону (Исходные документы - SOURCE) успешна",
+                            "Childs":[
+                            {
+                                "Success":true,
+                                "PatternName":"Документ",
+                                "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                                "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР1 по шаблону (Документ - PSD) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Документ",
+                                "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                                "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР2 по шаблону (Документ - PSD) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №1",
+                                "Text":"Проверка Лист №1 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №2",
+                                "Text":"Проверка Лист №2 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №3",
+                                "Text":"Проверка Лист №3 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №4",
+                                "Text":"Проверка Лист №4 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №5",
+                                "Text":"Проверка Лист №5 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №6",
+                                "Text":"Проверка Лист №6 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №7",
+                                "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            }
+                            ]
+                        },
+                        "Id":"SOURCE",
+                        "GUID":"",
+                        "Name":"Исходные документы",
+                        "AttributesPatternString":"^Source$",
+                        "AttributesCompareMode":1,
+                        "AttributesPatterns":[],
+                        "FilesPatterns":[],
+                        "ChildsPatterns":[
+                        {
+                            "Result":
+                            {
+                                "Success":false,
+                                "PatternName":"Документ",
+                                "DocumentName":"Лист №7",
+                                "Text":"Документ Лист №7 не прошел проверку по шаблону (Документ-PSD)\n\nАтрибут не найден: 'DOC_UNUM'",
+                                "Childs":[]
+                            },
+                            "Id":"PSD",
+                            "GUID":"",
+                            "Name":"Документ",
+                            "AttributesPatternString":"(?'DOC_UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+)\\.(?'COM_ATTR_CPARTTYPE_CODE'[\\w\\d\\-]+)\\.(?'BLDCPART_ATTR_SPCODE'[\\w\\d]+)\\.(?'BLDCONSTRUCTION_ATTR_GPCODE'[\\w\\d]+)\\.(?'MARK'\\w+)\\.(?'PSD_TYPE'\\w
+                            {
+                                1,
+                                4
+                            }
+                            )(?'ADD_CODE'[\\d\\-]
+                            {
+                                1,
+                                8
+                            }
+                            )?)",
+                            "AttributesCompareMode":1,
+                            "AttributesPatterns":[
+                            {
+                                "Id":"DOC_UNUM"
+                            }
+                            ],
+                            "FilesPatterns":[
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            },
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            },
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            },
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            },
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            },
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            }
+                            ],
+                            "ChildsPatterns":[]
+                        },
+                        {
+                            "Result":
+                            {
+                                "Success":true,
+                                "PatternName":"Чертеж",
+                                "DocumentName":"Лист №7",
+                                "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                                "Childs":[]
+                            },
+                            "Id":"DRAWING",
+                            "GUID":"",
+                            "Name":"Чертеж",
+                            "AttributesPatternString":"^(Лист\\s*\\№)(?'LIST_NUM'\\d+)",
+                            "AttributesCompareMode":1,
+                            "AttributesPatterns":[
+                            {
+                                "Id":"LIST_NUM"
+                            }
+                            ],
+                            "FilesPatterns":[
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            },
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            },
+                            {
+                                "Id":"",
+                                "MinFileSize":0,
+                                "MaxFileSize":9223372036854775807
+                            }
+                            ],
+                            "ChildsPatterns":[]
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "Result":
+                {
+                    "Success":true,
+                    "PatternName":"Основной комплект",
+                    "DocumentName":"4550.7.П.01.ВТК.000.000.Л.000",
+                    "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.000 по шаблону (Основной комплект - COMPLECT) успешна",
+                    "Childs":[
+                    {
+                        "Success":true,
+                        "PatternName":"Исходные документы",
+                        "DocumentName":"Source",
+                        "Text":"Проверка Source по шаблону (Исходные документы - SOURCE) успешна",
+                        "Childs":[
+                        {
+                            "Success":true,
+                            "PatternName":"Документ",
+                            "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                            "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР1 по шаблону (Документ - PSD) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Документ",
+                            "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                            "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР2 по шаблону (Документ - PSD) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №1",
+                            "Text":"Проверка Лист №1 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №2",
+                            "Text":"Проверка Лист №2 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №3",
+                            "Text":"Проверка Лист №3 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №4",
+                            "Text":"Проверка Лист №4 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №5",
+                            "Text":"Проверка Лист №5 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №6",
+                            "Text":"Проверка Лист №6 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №7",
+                            "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        }
+                        ]
+                    }
+                    ]
+                },
+                "Id":"COMPLECT",
+                "GUID":"",
+                "Name":"Основной комплект",
+                "AttributesPatternString":"^(?'C_UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+)\\.(?'COM_ATTR_CPARTTYPE_CODE'[\\w\\d\\-]+)\\.(?'BLDCPART_ATTR_SPCODE'[\\w\\d]+)\\.(?'BLDCONSTRUCTION_ATTR_GPCODE'[\\w\\d]+)\\.(?'MARK'\\w+)\\.000)$",
+                "AttributesCompareMode":1,
+                "AttributesPatterns":[
+                {
+                    "Id":"C_UNUM"
+                },
+                {
+                    "Id":"MARK"
+                }
+                ],
+                "FilesPatterns":[
+                {
+                    "Id":"",
+                    "MinFileSize":0,
+                    "MaxFileSize":9223372036854775807
+                }
+                ],
+                "ChildsPatterns":[
+                {
+                    "Result":
+                    {
+                        "Success":true,
+                        "PatternName":"Исходные документы",
+                        "DocumentName":"Source",
+                        "Text":"Проверка Source по шаблону (Исходные документы - SOURCE) успешна",
+                        "Childs":[
+                        {
+                            "Success":true,
+                            "PatternName":"Документ",
+                            "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                            "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР1 по шаблону (Документ - PSD) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Документ",
+                            "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                            "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР2 по шаблону (Документ - PSD) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №1",
+                            "Text":"Проверка Лист №1 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №2",
+                            "Text":"Проверка Лист №2 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №3",
+                            "Text":"Проверка Лист №3 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №4",
+                            "Text":"Проверка Лист №4 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №5",
+                            "Text":"Проверка Лист №5 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №6",
+                            "Text":"Проверка Лист №6 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №7",
+                            "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        }
+                        ]
+                    },
+                    "Id":"SOURCE",
+                    "GUID":"",
+                    "Name":"Исходные документы",
+                    "AttributesPatternString":"^Source$",
+                    "AttributesCompareMode":1,
+                    "AttributesPatterns":[],
+                    "FilesPatterns":[],
+                    "ChildsPatterns":[
+                    {
+                        "Result":
+                        {
+                            "Success":false,
+                            "PatternName":"Документ",
+                            "DocumentName":"Лист №7",
+                            "Text":"Документ Лист №7 не прошел проверку по шаблону (Документ-PSD)\n\nАтрибут не найден: 'DOC_UNUM'",
+                            "Childs":[]
+                        },
+                        "Id":"PSD",
+                        "GUID":"",
+                        "Name":"Документ",
+                        "AttributesPatternString":"(?'DOC_UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+)\\.(?'COM_ATTR_CPARTTYPE_CODE'[\\w\\d\\-]+)\\.(?'BLDCPART_ATTR_SPCODE'[\\w\\d]+)\\.(?'BLDCONSTRUCTION_ATTR_GPCODE'[\\w\\d]+)\\.(?'MARK'\\w+)\\.(?'PSD_TYPE'\\w
+                        {
+                            1,
+                            4
+                        }
+                        )(?'ADD_CODE'[\\d\\-]
+                        {
+                            1,
+                            8
+                        }
+                        )?)",
+                        "AttributesCompareMode":1,
+                        "AttributesPatterns":[
+                        {
+                            "Id":"DOC_UNUM"
+                        }
+                        ],
+                        "FilesPatterns":[
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        },
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        },
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        },
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        },
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        },
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        }
+                        ],
+                        "ChildsPatterns":[]
+                    },
+                    {
+                        "Result":
+                        {
+                            "Success":true,
+                            "PatternName":"Чертеж",
+                            "DocumentName":"Лист №7",
+                            "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                            "Childs":[]
+                        },
+                        "Id":"DRAWING",
+                        "GUID":"",
+                        "Name":"Чертеж",
+                        "AttributesPatternString":"^(Лист\\s*\\№)(?'LIST_NUM'\\d+)",
+                        "AttributesCompareMode":1,
+                        "AttributesPatterns":[
+                        {
+                            "Id":"LIST_NUM"
+                        }
+                        ],
+                        "FilesPatterns":[
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        },
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        },
+                        {
+                            "Id":"",
+                            "MinFileSize":0,
+                            "MaxFileSize":9223372036854775807
+                        }
+                        ],
+                        "ChildsPatterns":[]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "Result":
+            {
+                "Success":true,
+                "PatternName":"Основной комплект",
+                "DocumentName":"4550.7.П.01.ВТК.000.000.Л.000",
+                "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.000 по шаблону (Основной комплект - COMPLECT) успешна",
+                "Childs":[
+                {
+                    "Success":true,
+                    "PatternName":"Исходные документы",
+                    "DocumentName":"Source",
+                    "Text":"Проверка Source по шаблону (Исходные документы - SOURCE) успешна",
+                    "Childs":[
+                    {
+                        "Success":true,
+                        "PatternName":"Документ",
+                        "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                        "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР1 по шаблону (Документ - PSD) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Документ",
+                        "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                        "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР2 по шаблону (Документ - PSD) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №1",
+                        "Text":"Проверка Лист №1 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №2",
+                        "Text":"Проверка Лист №2 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №3",
+                        "Text":"Проверка Лист №3 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №4",
+                        "Text":"Проверка Лист №4 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №5",
+                        "Text":"Проверка Лист №5 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №6",
+                        "Text":"Проверка Лист №6 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №7",
+                        "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    }
+                    ]
+                }
+                ]
+            },
+            "Id":"COMPLECT",
+            "GUID":"",
+            "Name":"Основной комплект",
+            "AttributesPatternString":"^(?'C_UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+)\\.(?'COM_ATTR_CPARTTYPE_CODE'[\\w\\d\\-]+)\\.(?'BLDCPART_ATTR_SPCODE'[\\w\\d]+)\\.(?'BLDCONSTRUCTION_ATTR_GPCODE'[\\w\\d]+)\\.(?'MARK'\\w+)\\.000)$",
+            "AttributesCompareMode":1,
+            "AttributesPatterns":[
+            {
+                "Id":"C_UNUM"
+            },
+            {
+                "Id":"MARK"
+            }
+            ],
+            "FilesPatterns":[
+            {
+                "Id":"",
+                "MinFileSize":0,
+                "MaxFileSize":9223372036854775807
+            }
+            ],
+            "ChildsPatterns":[
+            {
+                "Result":
+                {
+                    "Success":true,
+                    "PatternName":"Исходные документы",
+                    "DocumentName":"Source",
+                    "Text":"Проверка Source по шаблону (Исходные документы - SOURCE) успешна",
+                    "Childs":[
+                    {
+                        "Success":true,
+                        "PatternName":"Документ",
+                        "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР1",
+                        "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР1 по шаблону (Документ - PSD) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Документ",
+                        "DocumentName":"4550.7.П.01.ВТК.000.000.Л.ВР2",
+                        "Text":"Проверка 4550.7.П.01.ВТК.000.000.Л.ВР2 по шаблону (Документ - PSD) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №1",
+                        "Text":"Проверка Лист №1 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №2",
+                        "Text":"Проверка Лист №2 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №3",
+                        "Text":"Проверка Лист №3 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №4",
+                        "Text":"Проверка Лист №4 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №5",
+                        "Text":"Проверка Лист №5 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №6",
+                        "Text":"Проверка Лист №6 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №7",
+                        "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    }
+                    ]
+                },
+                "Id":"SOURCE",
+                "GUID":"",
+                "Name":"Исходные документы",
+                "AttributesPatternString":"^Source$",
+                "AttributesCompareMode":1,
+                "AttributesPatterns":[],
+                "FilesPatterns":[],
+                "ChildsPatterns":[
+                {
+                    "Result":
+                    {
+                        "Success":false,
+                        "PatternName":"Документ",
+                        "DocumentName":"Лист №7",
+                        "Text":"Документ Лист №7 не прошел проверку по шаблону (Документ-PSD)\n\nАтрибут не найден: 'DOC_UNUM'",
+                        "Childs":[]
+                    },
+                    "Id":"PSD",
+                    "GUID":"",
+                    "Name":"Документ",
+                    "AttributesPatternString":"(?'DOC_UNUM'(?'DOG_NUM'[\\w\\d\\-]+)\\.(?'DOP_SOGL_NUM'[\\w\\d]+)\\.(?'STAGE_TYPE'[\\w\\d]+)\\.(?'COM_ATTR_COMPLEXTYPE'[\\w\\d]+)\\.(?'COM_ATTR_CPARTTYPE_CODE'[\\w\\d\\-]+)\\.(?'BLDCPART_ATTR_SPCODE'[\\w\\d]+)\\.(?'BLDCONSTRUCTION_ATTR_GPCODE'[\\w\\d]+)\\.(?'MARK'\\w+)\\.(?'PSD_TYPE'\\w
+                    {
+                        1,
+                        4
+                    }
+                    )(?'ADD_CODE'[\\d\\-]
+                    {
+                        1,
+                        8
+                    }
+                    )?)",
+                    "AttributesCompareMode":1,
+                    "AttributesPatterns":[
+                    {
+                        "Id":"DOC_UNUM"
+                    }
+                    ],
+                    "FilesPatterns":[
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    },
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    },
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    },
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    },
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    },
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    }
+                    ],
+                    "ChildsPatterns":[]
+                },
+                {
+                    "Result":
+                    {
+                        "Success":true,
+                        "PatternName":"Чертеж",
+                        "DocumentName":"Лист №7",
+                        "Text":"Проверка Лист №7 по шаблону (Чертеж - DRAWING) успешна",
+                        "Childs":[]
+                    },
+                    "Id":"DRAWING",
+                    "GUID":"",
+                    "Name":"Чертеж",
+                    "AttributesPatternString":"^(Лист\\s*\\№)(?'LIST_NUM'\\d+)",
+                    "AttributesCompareMode":1,
+                    "AttributesPatterns":[
+                    {
+                        "Id":"LIST_NUM"
+                    }
+                    ],
+                    "FilesPatterns":[
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    },
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    },
+                    {
+                        "Id":"",
+                        "MinFileSize":0,
+                        "MaxFileSize":9223372036854775807
+                    }
+                    ],
+                    "ChildsPatterns":[]
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    },
+    "Result":
+    {
+        "Code":0,
+        "Description":"Документ проверен"
+    }
+}
